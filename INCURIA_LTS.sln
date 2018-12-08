@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INCURIA_LTS", "INCURIA_LTS.csproj", "{D5795A3E-7528-DF2D-DDE1-715757D136AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incuria_LTS", "Incuria_LTS.csproj", "{47FA7D25-4D90-CD12-286D-E9BD1D0DEE3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INCURIA_LTS.Editor", "INCURIA_LTS.Editor.csproj", "{5C103826-A567-6842-EE95-E870A4ABCDCA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incuria_LTS.Editor", "Incuria_LTS.Editor.csproj", "{3C2D9C3B-604C-55E8-474F-A9B13E46590A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D5795A3E-7528-DF2D-DDE1-715757D136AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D5795A3E-7528-DF2D-DDE1-715757D136AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D5795A3E-7528-DF2D-DDE1-715757D136AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D5795A3E-7528-DF2D-DDE1-715757D136AC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5C103826-A567-6842-EE95-E870A4ABCDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5C103826-A567-6842-EE95-E870A4ABCDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5C103826-A567-6842-EE95-E870A4ABCDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5C103826-A567-6842-EE95-E870A4ABCDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FA7D25-4D90-CD12-286D-E9BD1D0DEE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FA7D25-4D90-CD12-286D-E9BD1D0DEE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FA7D25-4D90-CD12-286D-E9BD1D0DEE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FA7D25-4D90-CD12-286D-E9BD1D0DEE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2D9C3B-604C-55E8-474F-A9B13E46590A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2D9C3B-604C-55E8-474F-A9B13E46590A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2D9C3B-604C-55E8-474F-A9B13E46590A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2D9C3B-604C-55E8-474F-A9B13E46590A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
