@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: adac366e5a254ef4188f5bf8c14ec23b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Cube
+    100004: Head
+    100006: //RootNode
+    100008: Neck
+    100010: Spine_Middle
+    100012: SpineUpper
+    100014: TailBone
+    100016: TailBone_001
+    100018: TailBone_002
+    100020: TailBone_003
+    100022: TailBone_004
+    100024: TailBone_005
+    100026: TailBone_006
+    100028: TailBone_007
+    100030: TailBone_008
+    100032: UpperChest
+    100034: UpperChest_001
+    100036: UpperChest_002
+    100038: UpperChest_003
+    100040: UpperChest_004
+    100042: UpperChest_005
+    100044: UpperChest_006
+    100046: UpperChest_007
+    100048: UpperChest_008
+    100050: UpperChest_009
+    100052: UpperChest_010
+    400000: Armature
+    400002: Cube
+    400004: Head
+    400006: //RootNode
+    400008: Neck
+    400010: Spine_Middle
+    400012: SpineUpper
+    400014: TailBone
+    400016: TailBone_001
+    400018: TailBone_002
+    400020: TailBone_003
+    400022: TailBone_004
+    400024: TailBone_005
+    400026: TailBone_006
+    400028: TailBone_007
+    400030: TailBone_008
+    400032: UpperChest
+    400034: UpperChest_001
+    400036: UpperChest_002
+    400038: UpperChest_003
+    400040: UpperChest_004
+    400042: UpperChest_005
+    400044: UpperChest_006
+    400046: UpperChest_007
+    400048: UpperChest_008
+    400050: UpperChest_009
+    400052: UpperChest_010
+    2100000: Material
+    4300000: Cube
+    7400000: Default Take
+    7400002: Character_Idle
+    7400004: Character_Walk
+    7400006: Character_Walk_001
+    7400008: Idle
+    7400010: Take
+    7400012: Walk
+    7400014: HitBack
+    7400016: HitFront
+    7400018: Kick
+    9500000: //RootNode
+    13700000: Cube
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
